@@ -1,5 +1,12 @@
-/* #gameScreen {
-    border: 1px solid black;
+body { 
+    background: black; 
+}
 
+#canvas_container {
+     width:1000px; margin: 20px auto; 
 
-} */
+    }
+
+#my_canvas { 
+    background:#FFF; border:#999 1px solid;
+ }
